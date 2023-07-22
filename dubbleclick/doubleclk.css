@@ -1,0 +1,19 @@
+body{
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+}
+
+#card{
+    padding: 10px 30px;
+    width: 200px;
+    height: 100px;
+    box-shadow: 0 0 10px black;
+    border-radius: 5px;
+    background-color: rgb(124, 182, 95);
+    color: aliceblue;
+    text-align: center;
+    font-size: 23px;
+    cursor: pointer;
+}
